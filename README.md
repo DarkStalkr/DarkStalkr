@@ -1,6 +1,12 @@
-#### ¡Hey, que tal?!
+### Hi there 👋, ¡Hey, que tal?!
 #### Estudiante de Ingeniería en Computación | CyberSec Enthusiast
-![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](linuxlogo.png)
+![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](kali-purple-icon.png)
+
+<h3 align="left">Conéctate conmigo:</h3>
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/diego-domingo-correa-silva-672447248/"
 
 Aquí se encuentran algunos proyectos: mios
 

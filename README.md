@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, ¡Hey, que tal?!
+#### Estudiante de Ingeniería en Computación | CyberSec Enthusiast
+![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**DarkStalkr/DarkStalkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aquí se encuentran algunos proyectos: mios
 
-Here are some ideas to get you started:
+Skills: Python / C# / Linux / Git / JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DarkStalkr)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkStalkr&show_icons=true)  
+

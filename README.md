@@ -1,6 +1,6 @@
 #### ¡Hey, que tal?!
 #### Estudiante de Ingeniería en Computación | CyberSec Enthusiast
-![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](linuxbanner.png)
+![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](linuxlogo.png)
 
 Aquí se encuentran algunos proyectos: mios
 

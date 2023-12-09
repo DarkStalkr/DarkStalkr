@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="jslogo.png" alt="JavaScript" width="40" height="40"/>
+    <img src="jslogo1.png" alt="JavaScript" width="40" height="40"/>
   </a>
 </p>
 

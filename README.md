@@ -1,6 +1,6 @@
 ### Hi there 👋, ¡Hey, que tal?!
 #### Estudiante de Ingeniería en Computación | CyberSec Enthusiast
-![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](linuxbanner.webp)
 
 Aquí se encuentran algunos proyectos: mios
 

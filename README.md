@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h3 align="left">Aquí hay algunso proyectos:</h3>
+<h3 align="left">Aquí hay algunos proyectos:</h3>
 <!-- Agrega aquí tus proyectos -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,4 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr)](https://github.com/anuraghazra/github-readme-stats)
+

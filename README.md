@@ -2,11 +2,10 @@
 #### Estudiante de Ingeniería en Computación | CyberSec Enthusiast
 ![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](kali-purple-icon.png)
 
-<h3 align="left">Conéctate conmigo:</h3>
-
+<h3 align="left">Contáctame:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/diego-domingo-correa-silva-672447248/"
+<a href="https://www.linkedin.com/in/diego-domingo-correa-silva-672447248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jayr Adrian Rodriguez Hernandez" height="30" width="40" /></a></p><h3 align="left">
 
 Aquí se encuentran algunos proyectos: mios
 

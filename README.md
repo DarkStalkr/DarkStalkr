@@ -22,15 +22,15 @@
   </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+    <img src="pythonlogo.png" alt="Python" width="40" height="40"/>
   </a>
 
   <a href="https://es.wikipedia.org/wiki/C_Sharp">
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='C#' height='40'>
+    <img src='csharplogo.png' alt='C#' height='40'>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="jslogo.png" alt="JavaScript" width="40" height="40"/>
   </a>
 </p>
 

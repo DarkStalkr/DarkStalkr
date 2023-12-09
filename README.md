@@ -21,6 +21,11 @@
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
 
+
+  <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank" rel="noreferrer">
+    <img src="linuxlogo.png" alt="Linux" width="40" height="40"/>
+  </a>
+
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="pythonlogo.png" alt="Python" width="40" height="40"/>
   </a>

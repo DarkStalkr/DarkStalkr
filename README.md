@@ -1,6 +1,6 @@
-### Hi there 👋, ¡Hey, que tal?!
+#### ¡Hey, que tal?!
 #### Estudiante de Ingeniería en Computación | CyberSec Enthusiast
-![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](linuxbanner.webp)
+![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](linuxbanner.png)
 
 Aquí se encuentran algunos proyectos: mios
 

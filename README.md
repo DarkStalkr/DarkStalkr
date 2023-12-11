@@ -1,4 +1,4 @@
-### ¿Hey, que tal?
+### ¿Hey, qué tal?
 
 #### Soy un Estudiante de Ingeniería en Computación | CyberSec Enthusiast
 ![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](kali-purple-icon.png)

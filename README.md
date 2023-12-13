@@ -37,6 +37,18 @@
   </a>
 </p>
 
+<h3 align="left">Labs:</h3>
+
+  <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
+    <img src="htblogo.png" alt="HTB" width="40" height="40"/>
+  </a>
+
+  <a href="https://maldevacademy.com/" target="_blank" rel="noreferrer">
+    <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="40" height="40"/>
+  </a>
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

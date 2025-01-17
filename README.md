@@ -20,24 +20,24 @@
   <a href="https://github.com/DarkStalkr">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
-
-
   <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank" rel="noreferrer">
     <img src="linuxlogo.png" alt="Linux" width="40" height="40"/>
   </a>
-
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="pythonlogo.png" alt="Python" width="40" height="40"/>
   </a>
-
   <a href="https://es.wikipedia.org/wiki/C_Sharp">
     <img src='csharplogo.png' alt='C#' height='40'>
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="jslogo1.png" alt="JavaScript" width="40" height="40"/>
-  </a>
 </p>
+
+### 🔒 Seguridad y Análisis
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-4B0082?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
 
 ## 💻 Mi Entorno de Desarrollo
 

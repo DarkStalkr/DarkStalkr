@@ -40,7 +40,7 @@
 ## 💻 Mi Entorno de Desarrollo
 
 <div align="center">
-<img src="tu-gif-hyprland.gif" alt="Mi entorno Hyprland" width="600"/>
+<img src="de-demo.gif" alt="Mi entorno Hyprland" width="600"/>
 </div>
 
 ### Configuración Principal

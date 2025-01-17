@@ -15,7 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <p align="left">
  <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt='c' height='40'>

@@ -15,10 +15,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-929CBF?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 <p align="left">
  <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt='c' height='40'>
+ </a>
+  <a href="https://es.wikipedia.org/wiki/Bash">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt='bash' height='40'>
  </a>
    
   <a href="https://github.com/DarkStalkr">

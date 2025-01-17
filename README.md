@@ -47,9 +47,6 @@
 </div>
 
 **Arch Linux** + **Hyprland** | [Ver configuración completa](https://github.com/DarkStalkr/Dotfiles-Hyprland)
-```yaml
-WM: Hyprland (Wayland) | Shell: fish | Terminal: kitty
-Theme: Catppuccin-Mocha | CPU: Intel Core Ultra 7 155H
 ### Especificaciones del Sistema
 - **CPU**: Intel Core Ultra 7 155H @ 4.80 GHz
 - **GPU**: Intel Arc Graphics (Integrada)
@@ -57,17 +54,7 @@ Theme: Catppuccin-Mocha | CPU: Intel Core Ultra 7 155H
 - **Pantalla Principal**: 3072x1920 @ 165 Hz (16")
 - **Pantalla Externa**: 1920x1080 @ 120 Hz (27")
 
-```
 
-### Configuración Principal
-```yaml
-Sistema Operativo: Arch Linux x86_64
-Window Manager: Hyprland 0.46.2 (Wayland)
-Terminal: kitty 0.38.1
-Shell: fish 3.7.1
-Tema: Catppuccin-Mocha-Standard-Blue-Dark
-Fuente Terminal: NotoSansMono-Regular
-```
 
 
 

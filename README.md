@@ -34,7 +34,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="pythonlogo.png" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://es.wikipedia.org/wiki/C_Sharp">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
     <img src='csharplogo.png' alt='C#' height='40'>
   </a>
 </p>

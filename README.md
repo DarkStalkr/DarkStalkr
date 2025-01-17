@@ -38,6 +38,11 @@
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-4B0082?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
+### 🌐 Redes y Despliegue
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-FF4500?style=for-the-badge)
 
 ## 💻 Mi Entorno de Desarrollo
 

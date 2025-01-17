@@ -50,6 +50,13 @@
 ```yaml
 WM: Hyprland (Wayland) | Shell: fish | Terminal: kitty
 Theme: Catppuccin-Mocha | CPU: Intel Core Ultra 7 155H
+### Especificaciones del Sistema
+- **CPU**: Intel Core Ultra 7 155H @ 4.80 GHz
+- **GPU**: Intel Arc Graphics (Integrada)
+- **RAM**: 32GB
+- **Pantalla Principal**: 3072x1920 @ 165 Hz (16")
+- **Pantalla Externa**: 1920x1080 @ 120 Hz (27")
+
 ```
 
 ### Configuración Principal
@@ -62,19 +69,7 @@ Tema: Catppuccin-Mocha-Standard-Blue-Dark
 Fuente Terminal: NotoSansMono-Regular
 ```
 
-### Especificaciones del Sistema
-- **CPU**: Intel Core Ultra 7 155H @ 4.80 GHz
-- **GPU**: Intel Arc Graphics (Integrada)
-- **RAM**: 32GB
-- **Pantalla Principal**: 3072x1920 @ 165 Hz (16")
-- **Pantalla Externa**: 1920x1080 @ 120 Hz (27")
 
-### Personalización
-- **GTK Theme**: Catppuccin-Mocha-Standard-Blue-Dark
-- **Iconos**: Papirus-Dark
-- **Cursor**: Adwaita
-- **Compositor**: Hyprland con efectos personalizados
-- **File Manager**: (Puedes agregar el que uses)
 
 <details>
 <summary>Ver dotfiles</summary>

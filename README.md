@@ -43,6 +43,15 @@
 <img src="de-demo.gif" alt="Mi entorno Hyprland" width="600"/>
 </div>
 
+  [![Dotfiles](https://img.shields.io/badge/Dotfiles-Hyprland-blue?style=for-the-badge&logo=github)](https://github.com/DarkStalkr/Dotfiles-Hyprland)
+</div>
+
+**Arch Linux** + **Hyprland** | [Ver configuración completa](https://github.com/DarkStalkr/Dotfiles-Hyprland)
+```yaml
+WM: Hyprland (Wayland) | Shell: fish | Terminal: kitty
+Theme: Catppuccin-Mocha | CPU: Intel Core Ultra 7 155H
+```
+
 ### Configuración Principal
 ```yaml
 Sistema Operativo: Arch Linux x86_64

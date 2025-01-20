@@ -3,8 +3,7 @@
 #### Estudiante de Ing. en Computación | Info Sec & Information Systems Security Analyst
 #### On a journey to become a read Team Operator 
 
-![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](archlogo.png)
-
+<img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch Linux" width="320" height="160">
 <h3 align="left">Contáctame:</h3>
 
 <p align="left">

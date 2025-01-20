@@ -1,6 +1,6 @@
-### ¿Hey, qué tal?
+### Hola!
 
-#### Soy un Estudiante de Ingeniería en Computación | CyberSec Enthusiast
+#### Estudiante de Ing. en Computación | Info Sec & Informnation Systems Security Analyst
 ![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](kali-purple-icon.png)
 
 <h3 align="left">Contáctame:</h3>

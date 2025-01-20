@@ -79,7 +79,9 @@
   <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
     <img src="htblogo.png" alt="HTB" width="60" height="60"/>
   </a>
-
+  <a href="https://tryhackme.com/r/p/diegocorrea320" target="_blank" rel="noreferrer">
+    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="60" height="60"/>
+  </a>
   <a href="https://maldevacademy.com/" target="_blank" rel="noreferrer">
     <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
   </a>

@@ -1,4 +1,4 @@
-### Hacker, friend!
+### Hacker, friend.
 
 #### Estudiante de Ing. en Computación | Info Sec & Information Systems Security Analyst
 ![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](kali-purple-icon.png)

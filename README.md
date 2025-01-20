@@ -13,6 +13,7 @@
   </a>
 </p>
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🛠️ Tech Stack
 
@@ -63,12 +64,6 @@
 - **Pantalla Principal**: 3072x1920 @ 165 Hz (16")
 - **Pantalla Externa**: 1920x1080 @ 120 Hz (27")
 
-
-
-
-
-<details>
-<summary>Ver dotfiles</summary>
 
 
 <h3 align="left">Labs:</h3>

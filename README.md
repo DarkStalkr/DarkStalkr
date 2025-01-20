@@ -86,6 +86,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 🚀 Featured Projects
 
-<h3 align="left">Aquí hay algunos proyectos:</h3>
-<!-- Agrega aquí tus proyectos -->

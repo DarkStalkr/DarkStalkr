@@ -78,7 +78,9 @@
     <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
   </a>
 
-
+  <a href="https://play.picoctf.org/users/DieLight" target="_blank" rel="noreferrer">
+    <img src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="picoCTF" width="60" height="60"/>
+  </a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

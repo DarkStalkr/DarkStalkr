@@ -2,7 +2,9 @@
 
 #### Estudiante de Ing. en Computación | Info Sec & Information Systems Security Analyst
 #### On a journey to become a read Team Operator 
-![Red Team Journey](https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574324705)
+  <a href="https://tryhackme.com/r/room/redteamfundamentals?path=redteaming" target="_blank" rel="noreferrer">
+    <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574324705" alt="Python" width="40" height="40"/>
+  </a>
 ![Estudiante de Ingeniería en Computación | CyberSec Enthusiast](kali-purple-icon.png)
 
 <h3 align="left">Contáctame:</h3>

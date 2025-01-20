@@ -14,26 +14,22 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack
 
 <p align="left">
- <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt='c' height='40'>
- </a>
-   
+  <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt='c' height='40'>
+  </a>
   <a href="https://github.com/DarkStalkr">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
-  <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank" rel="noreferrer">
+  <a href="https://es.wikipedia.org/wiki/GNU/Linux">
     <img src="linuxlogo.png" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://es.wikipedia.org/wiki/Bash">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt='bash' height='40'>
- </a>
-  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt='bash' height='40'>
+  </a>
+  <a href="https://www.python.org/">
     <img src="pythonlogo.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">

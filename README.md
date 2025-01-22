@@ -49,7 +49,7 @@
 ## 💻 Mi Entorno de Desarrollo
 
 <div align="center">
-<img src="de-demo.gif" alt="Mi entorno Hyprland" width="600"/>
+<img src="de-demo(1).gif" alt="Mi entorno Hyprland" width="600"/>
 </div>
 
   [![Dotfiles](https://img.shields.io/badge/Dotfiles-Hyprland-blue?style=for-the-badge&logo=github)](https://github.com/DarkStalkr/Dotfiles-Hyprland)

@@ -85,7 +85,7 @@
     <img src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="picoCTF" width="60" height="60"/>
   </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&hide=html,css&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&hide=html,css&theme=catppuccin_mocha)
 
 
 ### 🚀 Featured Projects

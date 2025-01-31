@@ -36,9 +36,9 @@
     <img src='csharplogo.png' alt='C#' height='40'>
   </a>
     
-    <a href="https://go.dev/">
+  <a href="https://go.dev/">
     <img src"https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt='Go' height='40'>
-    </a>
+  </a>
 </p>
 
 ### 🔒 Seguridad y Análisis

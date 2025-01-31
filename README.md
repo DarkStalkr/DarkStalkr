@@ -33,11 +33,11 @@
     <img src="pythonlogo.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
-    <img src='csharplogo.png' alt='C#' height='40'>
+    <img src='csharplogo.png' alt='C#' height='40'/>
   </a>
     
   <a href="https://go.dev/">
-    <img src"https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt='Go' height='40'>
+   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt='Go' height='40'/>
   </a>
 </p>
 

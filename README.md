@@ -23,6 +23,11 @@
   <a href="https://github.com/DarkStalkr">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
+  
+  <a href="https://git-scm.com/">
+   <img src="https://git-scm.com/images/logo@2x.png" alt='Git' height='40'/>
+  </a>
+  
   <a href="https://es.wikipedia.org/wiki/GNU/Linux">
     <img src="linuxlogo.png" alt="Linux" width="40" height="40"/>
   </a>

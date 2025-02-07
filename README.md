@@ -50,7 +50,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/%F0%9F%90%89Ghidra-FF0000?style=for-the-badge)
-![IDA](https://img.shields.io/badge/IDA%20-4B0082?style=for-the-badge)
+![IDA](https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20IDA%20Pro-4B0082?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 

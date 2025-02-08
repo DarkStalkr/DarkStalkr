@@ -55,7 +55,7 @@
 
 
 
-## 💻 Mi Entorno de Desarrollo
+## 💻 Development Environment
 
 <div align="center">
 <img src="de-demo(1).gif" alt="Mi entorno Hyprland" width="600"/>

@@ -1,4 +1,4 @@
-### Hacker, friend.
+### Just a tech.
 
 #### Computer Engineering Student | Information Sec & Information Systems Security Analyst | SOC 
 #### On a journey to become a read Team Operator 

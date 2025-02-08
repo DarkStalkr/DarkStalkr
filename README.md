@@ -15,7 +15,6 @@
 
 ### 🛠️ Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="left">
   <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">

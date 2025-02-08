@@ -14,7 +14,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-### 🔒 Seguridad y Análisis
+### 🔒 Sec & Analysis Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/%F0%9F%90%89Ghidra-FF0000?style=for-the-badge)

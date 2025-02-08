@@ -1,10 +1,10 @@
 ### Hacker, friend.
 
-#### Estudiante de Ing. en Computación | Info Sec & Information Systems Security Analyst
+#### Computer Engineering Student | Information Sec & Information Systems Security Analyst | SOC 
 #### On a journey to become a read Team Operator 
 
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch Linux" width="240" height="80">
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">Reach out:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diego-domingo-correa-silva-672447248/" target="blank">

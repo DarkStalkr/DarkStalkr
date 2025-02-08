@@ -65,12 +65,13 @@
 </div>
 
 **Arch Linux** + **Hyprland** | [Ver configuración completa](https://github.com/DarkStalkr/Dotfiles-Hyprland)
-### Especificaciones del Sistema
+### System Info:
+- **Laptop**: Redmi Book Pro 16 2024
 - **CPU**: Intel Core Ultra 7 155H @ 4.80 GHz
-- **GPU**: Intel Arc Graphics (Integrada)
+- **GPU**: Intel Arc Graphics (Integrated)
 - **RAM**: 32GB
-- **Pantalla Principal**: 3072x1920 @ 165 Hz (16")
-- **Pantalla Externa**: 1920x1080 @ 120 Hz (27")
+- **Integrated Monitor**: 3072x1920 @ 165 Hz (16")
+- **External Monitor**: 1920x1080 @ 120 Hz (27")
 
 
 
@@ -93,5 +94,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&hide=html,css&theme=catppuccin_mocha)
 
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects:
 

@@ -1,6 +1,6 @@
 
 
-### Computer Engineering Student | Information Security & Information Systems Security | SOC Analyst
+### Computer Engineering Student | Information Security & Information Systems Security | SOC 
 #### On a journey to become a read Team Operator 
 
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch Linux" width="240" height="80">

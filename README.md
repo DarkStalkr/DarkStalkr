@@ -1,7 +1,7 @@
 
 
 ### Computer Engineering Student | InfoSec & Information Systems Security | SOC 
-#### Offensive Sec
+#### Red Team Operator in Progress
 
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch Linux" width="240" height="80">
 <h3 align="left">Reach out:</h3>

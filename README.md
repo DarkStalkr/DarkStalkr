@@ -64,10 +64,10 @@
       <img src="https://dsantana.uas.edu.mx/wp-content/uploads/2021/04/Ettercap.png" width="60" title="Ettercap"/>
     </td>
     <td align="center">
-      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" title="Nmap"/><br/>
-      <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="32" title="Nikto"/><br/>
-      <img src="https://raw.githubusercontent.com/RustScan/RustScan/master/pictures/rustscan.png" width="32" title="RustScan"/><br/>
-      <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="32" title="Amass"/>
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="60" title="Nmap"/><br/>
+      <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="60" title="Nikto"/><br/>
+      <img src="https://raw.githubusercontent.com/RustScan/RustScan/master/pictures/rustscan.png" width="50" title="RustScan"/><br/>
+      <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="60" title="Amass"/>
     </td>
     <td align="center">
       <img src="https://portswigger.net/content/images/logos/burp-suite.svg" width="32" title="Burp Suite"/><br/>

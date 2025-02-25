@@ -60,8 +60,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="32" title="Wireshark"/><br/>
       <img src="https://zeek.org/wp-content/uploads/2021/01/zeek-logo-blue-black-rgb-horizontal.png" width="60" title="Zeek"/><br/>
       <img src="https://suricata.io/wp-content/uploads/2021/01/suricata_logo_small.png" width="60" title="Suricata"/><br/>
-      <img src="https://www.tcpdump.org/images/logo.png" width="32" title="tcpdump"/><br/>
-      <img src="https://www.ntop.org/wp-content/uploads/2017/09/ntop.png" width="32" title="ntopng"/>
+      <img src="https://www.tcpdump.org/images/logo.png" width="60" title="tcpdump"/><br/>
+      <img src="https://dsantana.uas.edu.mx/wp-content/uploads/2021/04/Ettercap.png" width="32" title="Ettercap"/>
     </td>
     <td align="center">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" title="Nmap"/><br/>

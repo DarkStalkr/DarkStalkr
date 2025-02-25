@@ -76,7 +76,7 @@
     </td>
     <td align="center">
       <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="40" title="Ghidra"/><br/>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9QizFy34gL5ju2cse9CvCw3CojIxw7qTIg&s" width="40" title="IDA Pro"/><br/>
+      <img src="https://yt3.googleusercontent.com/04wBp_VfiG9CNvo7qWTKTehmc87-0br_OtE51434Y0FYPeeg67bXFmeqf9ZPHakGhAaVRO4w=s900-c-k-c0x00ffffff-no-rj" width="40" title="IDA Pro"/><br/>
     </td>
   </tr>
   <tr>

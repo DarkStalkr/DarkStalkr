@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.kali.org/tools/john/images/john-logo.svg width="40" title="John the Ripper"/><br/>
+      <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="40" title="John the Ripper"/><br/>
       <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40" title="Hashcat"/><br/>
       <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" title="Hydra"/>
     </td>

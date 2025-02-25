@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png" width="32" title="Wireshark"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="32" title="Wireshark"/><br/>
       <img src="https://zeek.org/wp-content/uploads/2019/09/logo.png" width="32" title="Zeek"/><br/>
       <img src="https://suricata.io/wp-content/uploads/2021/01/suricata_logo_small.png" width="32" title="Suricata"/><br/>
       <img src="https://www.tcpdump.org/images/logo.png" width="32" title="tcpdump"/><br/>

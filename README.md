@@ -88,7 +88,7 @@
   <tr>
     <td align="center">
       <img src="https://www.openwall.com/john/images/john-logo.png" width="32" title="John the Ripper"/><br/>
-      <img src="https://hashcat.net/img/hashcat-icon.png" width="32" title="Hashcat"/><br/>
+      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40" title="Hashcat"/><br/>
       <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/hydra.png" width="32" title="Hydra"/>
     </td>
     <td align="center">

@@ -58,7 +58,7 @@
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="32" title="Wireshark"/><br/>
-      <img src="https://zeek.org/wp-content/uploads/2021/01/zeek-logo-blue-black-rgb-horizontal.png" width="32" title="Zeek"/><br/>
+      <img src="https://zeek.org/wp-content/uploads/2021/01/zeek-logo-blue-black-rgb-horizontal.png" width="40" title="Zeek"/><br/>
       <img src="https://suricata.io/wp-content/uploads/2021/01/suricata_logo_small.png" width="32" title="Suricata"/><br/>
       <img src="https://www.tcpdump.org/images/logo.png" width="32" title="tcpdump"/><br/>
       <img src="https://www.ntop.org/wp-content/uploads/2017/09/ntop.png" width="32" title="ntopng"/>

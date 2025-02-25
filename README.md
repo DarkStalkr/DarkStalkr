@@ -57,26 +57,27 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="40" title="Wireshark"/><br/>
-      <img src="https://zeek.org/wp-content/uploads/2021/01/zeek-logo-blue-black-rgb-horizontal.png" width="70" title="Zeek"/><br/>
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhcI6xYg1aYXb99pK_UeZ5aQlF9UxSLzua4J6Tcy5nMZ_Et9ruNnNpQGdjEb-KFdVVi7NZrcn1Pwjrhl-AB0U302vzyZD-hq3SKcss-DYzW-sRMqwQJq6aloCjkI5WnfclLvBpalOiOi1XKdlGMVYgl3S6P4EaviH13iEIJFwmiSZoQ-X3qhM5n2cHy=s320" width="60" title="Suricata"/><br/>
-      <img src="https://www.tcpdump.org/images/logo.png" width="70" title="tcpdump"/><br/>
-      <img src="https://dsantana.uas.edu.mx/wp-content/uploads/2021/04/Ettercap.png" width="60" title="Ettercap"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="42" title="Wireshark"/><br/>
+      <img src="https://zeek.org/wp-content/uploads/2021/01/zeek-logo-blue-black-rgb-horizontal.png" width="42" title="Zeek"/><br/>
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhcI6xYg1aYXb99pK_UeZ5aQlF9UxSLzua4J6Tcy5nMZ_Et9ruNnNpQGdjEb-KFdVVi7NZrcn1Pwjrhl-AB0U302vzyZD-hq3SKcss-DYzW-sRMqwQJq6aloCjkI5WnfclLvBpalOiOi1XKdlGMVYgl3S6P4EaviH13iEIJFwmiSZoQ-X3qhM5n2cHy=s320" width="42" title="Suricata"/><br/>
+      <img src="https://www.tcpdump.org/images/logo.png" width="42" title="tcpdump"/><br/>
+      <img src="https://dsantana.uas.edu.mx/wp-content/uploads/2021/04/Ettercap.png" width="42" title="Ettercap"/>
     </td>
     <td align="center">
-      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" title="Nmap"/><br/>
-      <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="40" title="Nikto"/><br/>
-      <img src="https://raw.githubusercontent.com/RustScan/RustScan/master/pictures/rustscan.png" width="50" title="RustScan"/><br/>
-      <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="40" title="Amass"/>
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="42" title="Nmap"/><br/>
+      <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="42" title="Nikto"/><br/>
+      <img src="https://raw.githubusercontent.com/RustScan/RustScan/master/pictures/rustscan.png" width="42" title="RustScan"/><br/>
+      <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="42" title="Amass"/>
     </td>
     <td align="center">
-      <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40" title="Burp Suite"/><br/>
-      <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" width="40" title="OWASP ZAP"/><br/>
-      <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="40" title="WPScan"/>
+      <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="42" title="Burp Suite"/><br/>
+      <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" width="42" title="OWASP ZAP"/><br/>
+      <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="42" title="WPScan"/>
     </td>
     <td align="center">
-      <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="40" title="Ghidra"/><br/>
-      <img src="https://yt3.googleusercontent.com/04wBp_VfiG9CNvo7qWTKTehmc87-0br_OtE51434Y0FYPeeg67bXFmeqf9ZPHakGhAaVRO4w=s900-c-k-c0x00ffffff-no-rj" width="40" title="IDA Pro"/><br/>
+      <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="42" title="Ghidra"/><br/>
+      <img src="https://yt3.googleusercontent.com/04wBp_VfiG9CNvo7qWTKTehmc87-0br_OtE51434Y0FYPeeg67bXFmeqf9ZPHakGhAaVRO4w=s900-c-k-c0x00ffffff-no-rj" width="42" title="IDA Pro"/><br/>
+      <img src="https://www.kali.org/tools/radare2/images/radare2-logo.svg" width="42" title="Radare2"/>
     </td>
   </tr>
   <tr>
@@ -87,28 +88,28 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="40" title="John the Ripper"/><br/>
-      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40" title="Hashcat"/><br/>
-      <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" title="Hydra"/>
+      <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="42" title="John the Ripper"/><br/>
+      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="42" title="Hashcat"/><br/>
+      <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="42" title="Hydra"/>
     </td>
     <td align="center">
-      <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" width="40" title="TheHarvester"/><br/>
-      <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="40" title="Recon-ng"/><br/>
-      <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" width="40" title="Spiderfoot"/><br/>
-      <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40" title="Maltego"/>
+      <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" width="42" title="TheHarvester"/><br/>
+      <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="42" title="Recon-ng"/><br/>
+      <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" width="42" title="Spiderfoot"/><br/>
+      <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="42" title="Maltego"/>
     </td>
     <td align="center">
-      <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="40" title="Autopsy"/><br/>
-      <img src="https://www.kali.org/tools/binwalk/images/binwalk-logo.svg" width="40" title="Binwalk"/><br/>
+      <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="42" title="Autopsy"/><br/>
+      <img src="https://www.kali.org/tools/binwalk/images/binwalk-logo.svg" width="42" title="Binwalk"/><br/>
+      <img src="https://www.kali.org/tools/volatility/images/volatility-logo.svg" width="42" title="Volatility"/>
+    </td>
     <td align="center">
-      <img src="https://www.metasploit.com/includes/images/favicon.ico" width="32" title="Metasploit"/><br/>
-      <img src="https://www.kali.org/images/kali-logo.svg" width="32" title="Kali Purple"/><br/>
-      <img src="https://owasp.org/assets/images/logo.png" width="32" title="OWASP Tools"/>
+      <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="42" title="Metasploit"/><br/>
+      <img src="https://www.kali.org/images/kali-logo.svg" width="42" title="Kali Purple"/><br/>
+      <img src="https://raw.githubusercontent.com/OWASP/www-community/master/assets/images/logo.png" width="42" title="OWASP Tools"/>
     </td>
   </tr>
 </table>
-
-<!-- For a more interactive version, you might want to use clickable icons that link to the tool websites -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/Threat%20Intelligence-MISP%20|%20OpenCTI-blue?style=flat-square"/>

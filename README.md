@@ -64,15 +64,15 @@
       <img src="https://dsantana.uas.edu.mx/wp-content/uploads/2021/04/Ettercap.png" width="60" title="Ettercap"/>
     </td>
     <td align="center">
-      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="60" title="Nmap"/><br/>
-      <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="60" title="Nikto"/><br/>
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" title="Nmap"/><br/>
+      <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="40" title="Nikto"/><br/>
       <img src="https://raw.githubusercontent.com/RustScan/RustScan/master/pictures/rustscan.png" width="50" title="RustScan"/><br/>
-      <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="60" title="Amass"/>
+      <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" width="40" title="Amass"/>
     </td>
     <td align="center">
-      <img src="https://portswigger.net/content/images/logos/burp-suite.svg" width="32" title="Burp Suite"/><br/>
-      <img src="https://www.zaproxy.org/img/zap32x32.png" width="32" title="OWASP ZAP"/><br/>
-      <img src="https://raw.githubusercontent.com/wpscanteam/wpscan/master/images/wpscan_logo.png" width="32" title="WPScan"/>
+      <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40" title="Burp Suite"/><br/>
+      <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" width="40" title="OWASP ZAP"/><br/>
+      <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="40" title="WPScan"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_1.png" width="32" title="Ghidra"/><br/>

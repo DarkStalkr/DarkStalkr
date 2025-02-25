@@ -92,10 +92,10 @@
       <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" title="Hydra"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/laramies/theHarvester/master/theHarvester/lib/web/static/logo.png" width="32" title="TheHarvester"/><br/>
+      <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" width="40" title="TheHarvester"/><br/>
       <img src="https://raw.githubusercontent.com/lanmaster53/recon-ng/master/recon_ng/web/static/images/recon-ng.png" width="32" title="Recon-ng"/><br/>
-      <img src="https://www.spiderfoot.net/wp-content/uploads/2020/05/spiderfoot-wide.png" width="32" title="Spiderfoot"/><br/>
-      <img src="https://www.misp-project.org/assets/images/misp-small.png" width="32" title="MISP"/>
+      <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" width="40" title="Spiderfoot"/><br/>
+      <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40" title="Maltego"/>
     </td>
     <td align="center">
       <img src="https://www.sleuthkit.org/picts/little-penguin.jpg" width="32" title="Autopsy"/><br/>
@@ -112,11 +112,10 @@
 
 <!-- For a more interactive version, you might want to use clickable icons that link to the tool websites -->
 
-### Complete SOC Analysis Ecosystem
 <div align="center">
   <img src="https://img.shields.io/badge/Threat%20Intelligence-MISP%20|%20OpenCTI-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/SIEM-ELK%20|%20Graylog-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IDS/IPS-Suricata%20|%20Zeek-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDS/IPS-Suricata%20|%20Snort-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/Monitoring-Grafana%20|%20Prometheus-orange?style=flat-square"/>
 </div>
 

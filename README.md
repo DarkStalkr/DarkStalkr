@@ -65,7 +65,6 @@
     </td>
     <td align="center">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" title="Nmap"/><br/>
-      <img src="https://www.greenbone.net/wp-content/uploads/gse_logo_small.png" width="32" title="OpenVAS"/><br/>
       <img src="https://cirt.net/files/jointhedot.jpg" width="32" title="Nikto"/><br/>
       <img src="https://raw.githubusercontent.com/RustScan/RustScan/master/pictures/rustscan.png" width="32" title="RustScan"/><br/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Masscan-logo.png" width="32" title="Masscan"/>

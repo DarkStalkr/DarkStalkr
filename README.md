@@ -47,12 +47,52 @@
 </p>
 
 ### 🔒 Security & Analysis Toolkit
+### 🔒 Security & Analysis Toolkit
+
+#### Network Analysis & Monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-00789B?style=for-the-badge&logo=zeek&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![tcpdump](https://img.shields.io/badge/tcpdump-4D4D4D?style=for-the-badge)
+![ntopng](https://img.shields.io/badge/ntopng-3366CC?style=for-the-badge)
+
+#### Vulnerability Assessment
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-5CB85C?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-006400?style=for-the-badge)
+![RustScan](https://img.shields.io/badge/RustScan-CE422B?style=for-the-badge)
+![Masscan](https://img.shields.io/badge/Masscan-FF5F15?style=for-the-badge)
+
+#### Web Application Security
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-58B535?style=for-the-badge)
+![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge)
+
+#### Reverse Engineering & Malware Analysis
 ![Ghidra](https://img.shields.io/badge/%F0%9F%90%89Ghidra-FF0000?style=for-the-badge)
 ![IDA](https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20IDA%20-4B0082?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-7D4698?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-0078D7?style=for-the-badge)
 
+#### Password & Authentication Testing
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-5849BE?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-43B02A?style=for-the-badge)
+
+#### OSINT & Intelligence
+![TheHarvester](https://img.shields.io/badge/TheHarvester-377EF0?style=for-the-badge)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-FF4500?style=for-the-badge)
+![Spiderfoot](https://img.shields.io/badge/Spiderfoot-9400D3?style=for-the-badge)
+![MISP](https://img.shields.io/badge/MISP-2E5081?style=for-the-badge)
+
+#### Forensics & Incident Response
+![Autopsy](https://img.shields.io/badge/Autopsy-417505?style=for-the-badge)
+![Binwalk](https://img.shields.io/badge/Binwalk-3776AB?style=for-the-badge)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+#### Exploitation & Testing
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Kali Purple](https://img.shields.io/badge/Kali%20Purple-6F2DA8?style=for-the-badge)
 
 
 ## 💻 Development Environment

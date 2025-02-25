@@ -87,9 +87,9 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.openwall.com/john/images/john-logo.png" width="32" title="John the Ripper"/><br/>
+      <img src="https://www.kali.org/tools/john/images/john-logo.svg width="40" title="John the Ripper"/><br/>
       <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40" title="Hashcat"/><br/>
-      <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/hydra.png" width="32" title="Hydra"/>
+      <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" title="Hydra"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/laramies/theHarvester/master/theHarvester/lib/web/static/logo.png" width="32" title="TheHarvester"/><br/>

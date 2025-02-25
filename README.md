@@ -60,7 +60,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="42" title="Wireshark"/><br/>
       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhcI6xYg1aYXb99pK_UeZ5aQlF9UxSLzua4J6Tcy5nMZ_Et9ruNnNpQGdjEb-KFdVVi7NZrcn1Pwjrhl-AB0U302vzyZD-hq3SKcss-DYzW-sRMqwQJq6aloCjkI5WnfclLvBpalOiOi1XKdlGMVYgl3S6P4EaviH13iEIJFwmiSZoQ-X3qhM5n2cHy=s320" width="42" title="Suricata"/><br/>
       <img src="https://www.tcpdump.org/images/logo.png" width="60" title="tcpdump"/><br/>
-      <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="60" title="Bettercap"/>
+      <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="42" title="Bettercap"/>
     </td>
     <td align="center">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="42" title="Nmap"/><br/>
@@ -100,12 +100,10 @@
     <td align="center">
       <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="42" title="Autopsy"/><br/>
       <img src="https://www.kali.org/tools/binwalk/images/binwalk-logo.svg" width="42" title="Binwalk"/><br/>
-      <img src="https://www.kali.org/tools/volatility/images/volatility-logo.svg" width="42" title="Volatility"/>
-    </td>
     <td align="center">
       <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="42" title="Metasploit"/><br/>
       <img src="https://www.kali.org/images/kali-logo.svg" width="42" title="Kali Purple"/><br/>
-      <img src="https://raw.githubusercontent.com/OWASP/www-community/master/assets/images/logo.png" width="42" title="OWASP Tools"/>
+      <img src="https://owasp.org/assets/images/logo.png" width="42" title="OWASP Tools"/>
     </td>
   </tr>
 </table>

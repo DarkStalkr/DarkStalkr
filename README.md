@@ -59,8 +59,8 @@
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="42" title="Wireshark"/><br/>
       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhcI6xYg1aYXb99pK_UeZ5aQlF9UxSLzua4J6Tcy5nMZ_Et9ruNnNpQGdjEb-KFdVVi7NZrcn1Pwjrhl-AB0U302vzyZD-hq3SKcss-DYzW-sRMqwQJq6aloCjkI5WnfclLvBpalOiOi1XKdlGMVYgl3S6P4EaviH13iEIJFwmiSZoQ-X3qhM5n2cHy=s320" width="42" title="Suricata"/><br/>
-      <img src="https://www.tcpdump.org/images/logo.png" width="42" title="tcpdump"/><br/>
-      <img src="https://dsantana.uas.edu.mx/wp-content/uploads/2021/04/Ettercap.png" width="60" title="Ettercap"/>
+      <img src="https://www.tcpdump.org/images/logo.png" width="60" title="tcpdump"/><br/>
+      <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="60" title="Bettercap"/>
     </td>
     <td align="center">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="42" title="Nmap"/><br/>

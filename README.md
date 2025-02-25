@@ -46,12 +46,82 @@
   </a>
 </p>
 
-### 🔒 Security & Analysis Toolkit
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Ghidra](https://img.shields.io/badge/%F0%9F%90%89Ghidra-FF0000?style=for-the-badge)
-![IDA](https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20IDA%20-4B0082?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+## 🔒 Security & Analysis Toolkit
+
+<table>
+  <tr>
+    <td align="center"><b>Network Analysis</b></td>
+    <td align="center"><b>Vulnerability Assessment</b></td>
+    <td align="center"><b>Web Security</b></td>
+    <td align="center"><b>Reverse Engineering</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png" width="32" title="Wireshark"/><br/>
+      <img src="https://zeek.org/wp-content/uploads/2019/09/logo.png" width="32" title="Zeek"/><br/>
+      <img src="https://suricata.io/wp-content/uploads/2021/01/suricata_logo_small.png" width="32" title="Suricata"/><br/>
+      <img src="https://www.tcpdump.org/images/logo.png" width="32" title="tcpdump"/><br/>
+      <img src="https://www.ntop.org/wp-content/uploads/2017/09/ntop.png" width="32" title="ntopng"/>
+    </td>
+    <td align="center">
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" title="Nmap"/><br/>
+      <img src="https://www.greenbone.net/wp-content/uploads/gse_logo_small.png" width="32" title="OpenVAS"/><br/>
+      <img src="https://cirt.net/files/jointhedot.jpg" width="32" title="Nikto"/><br/>
+      <img src="https://raw.githubusercontent.com/RustScan/RustScan/master/pictures/rustscan.png" width="32" title="RustScan"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Masscan-logo.png" width="32" title="Masscan"/>
+    </td>
+    <td align="center">
+      <img src="https://portswigger.net/content/images/logos/burp-suite.svg" width="32" title="Burp Suite"/><br/>
+      <img src="https://www.zaproxy.org/img/zap32x32.png" width="32" title="OWASP ZAP"/><br/>
+      <img src="https://raw.githubusercontent.com/wpscanteam/wpscan/master/images/wpscan_logo.png" width="32" title="WPScan"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_1.png" width="32" title="Ghidra"/><br/>
+      <img src="https://www.hex-rays.com/wp-content/uploads/2020/02/ida-logo.svg" width="32" title="IDA Pro"/><br/>
+      <img src="https://rada.re/con/2020/img/r2logo.png" width="32" title="Radare2"/><br/>
+      <img src="https://volatility3.readthedocs.io/en/latest/_static/vol.png" width="32" title="Volatility"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Password Testing</b></td>
+    <td align="center"><b>OSINT & Intelligence</b></td>
+    <td align="center"><b>Forensics</b></td>
+    <td align="center"><b>Exploitation & Testing</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.openwall.com/john/images/john-logo.png" width="32" title="John the Ripper"/><br/>
+      <img src="https://hashcat.net/img/hashcat-icon.png" width="32" title="Hashcat"/><br/>
+      <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/hydra.png" width="32" title="Hydra"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/laramies/theHarvester/master/theHarvester/lib/web/static/logo.png" width="32" title="TheHarvester"/><br/>
+      <img src="https://raw.githubusercontent.com/lanmaster53/recon-ng/master/recon_ng/web/static/images/recon-ng.png" width="32" title="Recon-ng"/><br/>
+      <img src="https://www.spiderfoot.net/wp-content/uploads/2020/05/spiderfoot-wide.png" width="32" title="Spiderfoot"/><br/>
+      <img src="https://www.misp-project.org/assets/images/misp-small.png" width="32" title="MISP"/>
+    </td>
+    <td align="center">
+      <img src="https://www.sleuthkit.org/picts/little-penguin.jpg" width="32" title="Autopsy"/><br/>
+      <img src="https://github.com/ReFirmLabs/binwalk/raw/master/src/binwalk/core/plugins/images/zlib.png" width="32" title="Binwalk"/><br/>
+      <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt8781708f8f37ed16/5c11ec2edf09df047814db23/logo-elastic-kibana-lt.svg" width="32" title="ELK Stack"/>
+    </td>
+    <td align="center">
+      <img src="https://www.metasploit.com/includes/images/favicon.ico" width="32" title="Metasploit"/><br/>
+      <img src="https://www.kali.org/images/kali-logo.svg" width="32" title="Kali Purple"/><br/>
+      <img src="https://owasp.org/assets/images/logo.png" width="32" title="OWASP Tools"/>
+    </td>
+  </tr>
+</table>
+
+<!-- For a more interactive version, you might want to use clickable icons that link to the tool websites -->
+
+### Complete SOC Analysis Ecosystem
+<div align="center">
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-MISP%20|%20OpenCTI-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SIEM-ELK%20|%20Graylog-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDS/IPS-Suricata%20|%20Zeek-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Monitoring-Grafana%20|%20Prometheus-orange?style=flat-square"/>
+</div>
 
 
 ## 💻 Development Environment

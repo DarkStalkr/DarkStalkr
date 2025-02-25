@@ -75,10 +75,8 @@
       <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" width="40" title="WPScan"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_1.png" width="32" title="Ghidra"/><br/>
-      <img src="https://www.hex-rays.com/wp-content/uploads/2020/02/ida-logo.svg" width="32" title="IDA Pro"/><br/>
-      <img src="https://rada.re/con/2020/img/r2logo.png" width="32" title="Radare2"/><br/>
-      <img src="https://volatility3.readthedocs.io/en/latest/_static/vol.png" width="32" title="Volatility"/>
+      <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="40" title="Ghidra"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9QizFy34gL5ju2cse9CvCw3CojIxw7qTIg&s" width="40" title="IDA Pro"/><br/>
     </td>
   </tr>
   <tr>

@@ -93,15 +93,13 @@
     </td>
     <td align="center">
       <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" width="40" title="TheHarvester"/><br/>
-      <img src="https://raw.githubusercontent.com/lanmaster53/recon-ng/master/recon_ng/web/static/images/recon-ng.png" width="32" title="Recon-ng"/><br/>
+      <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="40" title="Recon-ng"/><br/>
       <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" width="40" title="Spiderfoot"/><br/>
       <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40" title="Maltego"/>
     </td>
     <td align="center">
-      <img src="https://www.sleuthkit.org/picts/little-penguin.jpg" width="32" title="Autopsy"/><br/>
-      <img src="https://github.com/ReFirmLabs/binwalk/raw/master/src/binwalk/core/plugins/images/zlib.png" width="32" title="Binwalk"/><br/>
-      <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt8781708f8f37ed16/5c11ec2edf09df047814db23/logo-elastic-kibana-lt.svg" width="32" title="ELK Stack"/>
-    </td>
+      <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" width="40" title="Autopsy"/><br/>
+      <img src="https://www.kali.org/tools/binwalk/images/binwalk-logo.svg" width="40" title="Binwalk"/><br/>
     <td align="center">
       <img src="https://www.metasploit.com/includes/images/favicon.ico" width="32" title="Metasploit"/><br/>
       <img src="https://www.kali.org/images/kali-logo.svg" width="32" title="Kali Purple"/><br/>

@@ -4,7 +4,7 @@
 #### Red Team Operator in Progress
 
 <a href="https://tryhackme.com/p/Daigou">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Daigou.png" alt="TryHackMe Profile" width="300" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/sohighman.png" alt="Image Badge" />
 </a>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Daigou-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Daigou)

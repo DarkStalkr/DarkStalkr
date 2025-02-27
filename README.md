@@ -3,7 +3,7 @@
 ### Computer Engineering Student | InfoSec & Information Systems Security | SOC 
 #### Red Team Operator in Progress
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4084042" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Daigou.png" alt="Your Image Badge" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diego-domingo-correa-silva-672447248/" target="blank">

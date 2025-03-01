@@ -4,7 +4,7 @@
 #### Red Team Operator in Progress
 
 <a href="https://tryhackme.com/p/sohighman">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/sohighman.png" alt="sohighman" />
+  <img src="sources/tryhackmebadge.png" alt="sohighman" />
 </a>
 
 
@@ -123,7 +123,7 @@
 ## 💻 Development Environment
 
 <div align="center">
-<img src="de-demo(1).gif" alt="Mi entorno Hyprland" width="600"/>
+<img src="sources/de-demo(1).gif" alt="Mi entorno Hyprland" width="600"/>
 </div>
 
   [![Dotfiles](https://img.shields.io/badge/Dotfiles-Hyprland-blue?style=for-the-badge&logo=github)](https://github.com/DarkStalkr/Dotfiles-Hyprland)
@@ -145,7 +145,7 @@
     <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="60" height="60"/>
   </a>
   <a href="https://maldevacademy.com/" target="_blank" rel="noreferrer">
-    <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
+    <img src="sources/maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
   </a>
   <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
     <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" alt="HTB" width="80" height="80"/>

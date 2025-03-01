@@ -41,7 +41,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
-    <img src='https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png' alt='C#' height='40'/>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png' alt='C#' height='60'/>
   </a>
     
   <a href="https://go.dev/">

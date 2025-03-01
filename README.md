@@ -148,7 +148,7 @@
     <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
   </a>
     <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" alt="HTB" width="60" />
+    <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" alt="HTB" width="40" />
   </a>
 
   <a href="https://play.picoctf.org/users/DieLight" target="_blank" rel="noreferrer">

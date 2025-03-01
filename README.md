@@ -141,14 +141,14 @@
 
 <h3 align="left">Labs:</h3>
 
-  <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
-    <img src="htblogo.png" alt="HTB" width="60" height="60"/>
-  </a>
   <a href="https://tryhackme.com/p/Daigou" target="_blank" rel="noreferrer">
     <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="60" height="60"/>
   </a>
   <a href="https://maldevacademy.com/" target="_blank" rel="noreferrer">
     <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
+  </a>
+    <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Hack_The_Box_Logo_1.png" alt="HTB" width="60" height="60"/>
   </a>
 
   <a href="https://play.picoctf.org/users/DieLight" target="_blank" rel="noreferrer">

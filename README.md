@@ -3,11 +3,11 @@
 ### Computer Engineering Student | InfoSec & Information Systems Security | SOC 
 #### Red Team Operator in Progress
 
-<a href="https://tryhackme.com/p/Daigou">
+<a href="https://tryhackme.com/p/sohighman">
   <img src="https://tryhackme-badges.s3.amazonaws.com/sohighman.png" alt="Image Badge" />
 </a>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Daigou-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Daigou)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-sohighman-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/sohighman)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diego-domingo-correa-silva-672447248/" target="blank">

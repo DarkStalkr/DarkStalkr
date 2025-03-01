@@ -7,7 +7,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/sohighman.png" alt="Your Image Badge" />
 </a>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4084042" style='border:none;'></iframe>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sohighman-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/sohighman)
 

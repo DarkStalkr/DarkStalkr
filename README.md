@@ -147,7 +147,7 @@
     <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
   </a>
   <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" alt="HTB" width="60" height="60"/>
+    <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" alt="HTB" width="80" />
   </a>
   <a href="https://play.picoctf.org/users/DieLight" target="_blank" rel="noreferrer">
     <img src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="picoCTF" width="60" height="60"/>

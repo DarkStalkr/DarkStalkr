@@ -140,7 +140,7 @@
 
 <h3 align="left">Labs:</h3>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://tryhackme.com/p/Daigou" target="_blank" rel="noreferrer">
+  <a href="https://tryhackme.com/p/sohighman" target="_blank" rel="noreferrer">
     <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="60" height="60"/>
   </a>
   <a href="https://maldevacademy.com/" target="_blank" rel="noreferrer">

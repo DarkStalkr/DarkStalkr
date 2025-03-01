@@ -138,22 +138,21 @@
 - **External Monitor**: 1920x1080 @ 120 Hz (27")
 
 
-
 <h3 align="left">Labs:</h3>
-
+<div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://tryhackme.com/p/Daigou" target="_blank" rel="noreferrer">
     <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="60" height="60"/>
   </a>
   <a href="https://maldevacademy.com/" target="_blank" rel="noreferrer">
     <img src="maldev-navbar-logo.svg" alt="MalDevAcademy" width="60" height="60"/>
   </a>
-    <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" alt="HTB" width="20" />
+  <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" alt="HTB" width="60" height="60"/>
   </a>
-
   <a href="https://play.picoctf.org/users/DieLight" target="_blank" rel="noreferrer">
     <img src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="picoCTF" width="60" height="60"/>
   </a>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&hide=html,css&theme=catppuccin_mocha)
 

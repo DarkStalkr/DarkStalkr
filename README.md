@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://es.wikipedia.org/wiki/GNU/Linux">
-    <img src="linuxlogo.png" alt="Linux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/GNU%2BLinux.png" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://es.wikipedia.org/wiki/Bash">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt='bash' height='40'>

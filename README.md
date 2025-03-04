@@ -4,12 +4,11 @@
 #### Red Team Operator in Progress
 
 <a href="https://tryhackme.com/p/sohighman">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/sohighman.png" alt="Your Image Badge" />
+  <img src="sources/tryhackme-badge.png" alt="TryHackMe Badge" />
 </a>
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sohighman.png)](https://tryhackme.com/p/sohighman)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-sohighman-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/sohighman)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diego-domingo-correa-silva-672447248/" target="blank">

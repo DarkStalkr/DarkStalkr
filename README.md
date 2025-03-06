@@ -4,7 +4,7 @@
 #### Red Team Operator in Progress
 
 <a href="https://tryhackme.com/p/sohighman">
-  <img src="sources/tryhackme-badge.png" alt="TryHackMe Badge" />
+  <img src="sources/tryhackme1-badge.png" alt="TryHackMe Badge" />
 </a>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sohighman-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/sohighman)

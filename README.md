@@ -155,7 +155,7 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&hide=html,css&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStalkr&hide=html,css,scheme&theme=catppuccin_mocha)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=DarkStalkr&repo=DarkStalkr&countColor=%237B1E7A)
 

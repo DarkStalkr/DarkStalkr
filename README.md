@@ -129,7 +129,7 @@
   [![Dotfiles](https://img.shields.io/badge/Dotfiles-Hyprland-blue?style=for-the-badge&logo=github)](https://github.com/DarkStalkr/Dotfiles-DarkStalkr)
 </div>
 
-**Arch Linux** + **Hyprland** | [Ver configuración completa](https://github.com/DarkStalkr/Dotfiles-Hyprland)
+**Arch Linux** + **Hyprland** | [Ver configuración completa](https://github.com/DarkStalkr/Dotfiles-DarkStalkr)
 ### System Info:
 - **Laptop**: Redmi Book Pro 16 2024
 - **CPU**: Intel Core Ultra 7 155H @ 4.80 GHz

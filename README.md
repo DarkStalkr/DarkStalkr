@@ -17,7 +17,7 @@
 </p>
 
 
-### 🛠️ Tech Stack
+### Stack
 
 
 <p align="left">
@@ -50,7 +50,7 @@
   </a>
 </p>
 
-## 🔒 Security & Analysis Toolkit
+## Security Toolkit
 
 <table>
   <tr>
